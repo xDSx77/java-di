@@ -1,3 +1,4 @@
+import com.mti.hivers.impl.Hivers;
 import com.mti.hivers.impl.provider.Prototype;
 import com.mti.hivers.impl.provider.Singleton;
 import org.junit.jupiter.api.Test;

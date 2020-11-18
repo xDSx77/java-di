@@ -9,5 +9,8 @@
         <module name="java-di" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-di" target="14" />
+    </bytecodeTargetLevel>
   </component>
 </project>
